@@ -1,0 +1,40 @@
+body{
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.navbar{
+	background-color: #9CBCE3 !important;
+}
+
+
+.navbar .navbar-nav li a {
+	color: white !important;
+	font-size: 20px;
+}
+
+.navbar-text{
+	color: white ! important;
+	font-size: 20px;
+}
+
+
+
+
+.btn3{
+	border:4px solid #659EBA;
+	background-color: white !important;
+	color: black !important;
+	transition: 1s;
+
+}
+
+.btn3:hover {
+	color: white !important;
+	background-color: #659EBA !important;
+	display: inline-block;
+	border:4px solid #659EBA !important;
+	transition: 1s;
+}
+
+
